@@ -104,7 +104,7 @@ function respostaSelecionada(opcaoSelecionada){
 }
 
 function mostraResultado(){
-    caixaPerguntas.textContent = "em 2049";
+    caixaPerguntas.textContent = " sua jornada foi !";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
